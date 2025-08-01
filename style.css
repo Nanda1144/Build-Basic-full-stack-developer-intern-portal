@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background-color: #f0f4f8;
+}
+
+.dashboard {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 5px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+ul {
+  padding-left: 20px;
+}
